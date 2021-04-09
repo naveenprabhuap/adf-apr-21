@@ -11,7 +11,7 @@
 			"location": {
 				"type": "AzureBlobStorageLocation",
 				"fileName": "cars.csv",
-				"container": "input"
+				"container": "blob"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
