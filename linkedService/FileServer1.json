@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "C:\\ir",
-			"userId": "naveen.p.palanisamy",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkNmYwMDYyZC05MmQ1LTRiNjMtODFhYy1hYjY5OTc2NmQ2N2YiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "vmApr21\\naveen.p.palanisamy",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiNGUzZDMyMS1iN2Y4LTQxNjUtODEyYS1jMjNkY2Q3Yjc4NmIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime1",
