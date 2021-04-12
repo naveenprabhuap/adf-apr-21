@@ -19,7 +19,7 @@
 					"value": "@dataset().fileName",
 					"type": "Expression"
 				},
-				"container": "input"
+				"container": "blob"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
